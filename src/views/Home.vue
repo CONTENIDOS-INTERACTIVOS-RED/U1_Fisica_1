@@ -22,11 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
+              p.descripcion.mb-4 Desde tiempos antiguos, el ser humano ha intentado comprender, medir y explicar los fenómenos que lo rodean. En este contexto, la Física surge como una ciencia fundamental para interpretar el comportamiento del universo, mediante leyes y principios precisos. Esta primera unidad se centra en el estudio de las magnitudes físicas, los sistemas de unidades y las herramientas matemáticas, necesarias para su análisis. Se abordará el concepto de medición, la importancia de utilizar unidades estandarizadas y la representación gráfica de datos, permitiendo desarrollar habilidades básicas pero esenciales, para el estudio de los fenómenos físicos.
 
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
-              
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
+              h5 ¡Prepárese para explorar el mundo desde una perspectiva científica y rigurosa!
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
