@@ -136,7 +136,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Movimiento en planos inclinados y superficies rugosas  
             p.mb-4(data-aos="fade-right") En el PDF Movimiento en planos inclinados y superficies rugosas, se presenta un enfoque práctico para analizar el desplazamiento de objetos sometidos a fricción en planos inclinados, integrando diagramas de cuerpo libre, descomposición de fuerzas y aplicación de la segunda ley de Newton. Este contenido es esencial para la ingeniería industrial, porque permite optimizar sistemas de transporte, manipulación de materiales y procesos productivos.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_8.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -160,7 +160,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Movimiento Circular Uniforme (MCU) y No Uniforme (MCNU)
             p.mb-4(data-aos="fade-right") En el PDF Movimiento Circular Uniforme y No Uniforme, se presentan los conceptos esenciales para comprender cómo varían la velocidad angular, la aceleración centrípeta y la velocidad lineal de un objeto que sigue una trayectoria circular. A través de ejemplos aplicados, se explora su utilidad en sistemas industriales como engranajes, poleas y maquinaria rotativa, permitiendo analizar con precisión, fenómenos de rotación y optimizar el funcionamiento de equipos y procesos.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_9.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -275,7 +275,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Cómo analizar sistemas con múltiples cuerpos 
             p.mb-4(data-aos="fade-right") El análisis de sistemas con múltiples cuerpos, es fundamental para comprender cómo interactúan diversos objetos conectados entre sí mediante cuerdas, poleas u otros mecanismos. En el PDF Cómo analizar sistemas con múltiples cuerpos, se exploran ejemplos prácticos que permiten visualizar las fuerzas involucradas y aplicar las leyes de Newton para determinar aceleraciones y tensiones. Esta comprensión es esencial en ingeniería industrial, puesto que permite descomponer sistemas complejos en partes más simples, facilitando el diseño, optimización y mantenimiento de equipos y procesos interconectados.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_10.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -386,7 +386,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Problemas en contextos industriales
             p.mb-4(data-aos="fade-right") La resolución de problemas en contextos industriales, es una competencia esencial para los ingenieros que buscan optimizar procesos y mejorar el rendimiento de los sistemas de producción. En el PDF Problemas en contextos industriales, se presenta un enfoque práctico para abordar desafíos reales mediante la aplicación de principios físicos y matemáticos, como la fricción, la potencia y el análisis de datos. A través de ejemplos situados en escenarios industriales, se ilustra cómo identificar problemas, proponer soluciones viables y tomar decisiones fundamentadas que impacten positivamente, en la eficiencia operativa.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_11.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
