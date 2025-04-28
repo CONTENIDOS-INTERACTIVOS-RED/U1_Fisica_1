@@ -100,7 +100,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Sistemas de unidades y conversión de unidades 
             p.mb-4(data-aos="fade-right") En el PDF Sistemas de unidades y conversión de unidades, se presentan los principios básicos del Sistema Internacional y el Sistema Inglés, junto con ejercicios prácticos que permiten desarrollar la habilidad de transformar magnitudes, entre distintos sistemas, garantizando una correcta interpretación de datos y una comunicación técnica eficaz en entornos globalizados.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -148,7 +148,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Ejercicios
             p.mb-4(data-aos="fade-right") En el PDF Ejercicios, se desarrollan problemas prácticos sobre suma de vectores, desplazamientos en el plano y descomposición vectorial, integrando tanto el enfoque algebraico como el gráfico, para fortalecer la comprensión de estos conceptos y su aplicación en contextos reales.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -171,7 +171,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Concepto de posición, desplazamiento, velocidad y aceleración
             p.mb-4(data-aos="fade-right") En el PDF Sistemas de unidades y conversión de unidades, se presentan los principios básicos del Sistema Internacional y el Sistema Inglés, junto con ejercicios prácticos que permiten desarrollar la habilidad de transformar magnitudes, entre distintos sistemas, garantizando una correcta interpretación de datos y una comunicación técnica eficaz en entornos globalizados.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -189,7 +189,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Representación gráfica de movimientos
             p.mb-4(data-aos="fade-right") En el PDF Representación gráfica de movimientos, se presentan distintos tipos de gráficos y su interpretación, junto con ejercicios que fortalecen la comprensión de estas representaciones. Este enfoque facilita el análisis del comportamiento del movimiento y su aplicación en contextos reales, como la ingeniería y la producción.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

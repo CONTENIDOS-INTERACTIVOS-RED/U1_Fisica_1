@@ -107,7 +107,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Segunda ley de Newton: relación entre fuerza, masa y aceleración 
             p.mb-4(data-aos="fade-right") En el PDF Segunda ley de Newton, se presentan explicaciones detalladas, ejemplos gráficos y ejercicios que permiten comprender cómo esta ley permite predecir y analizar el comportamiento del movimiento, en diferentes contextos físicos. Esta comprensión resulta especialmente útil en áreas como la ingeniería industrial, donde calcular fuerzas y aceleraciones, es clave para el diseño eficiente de sistemas mecánicos.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -202,7 +202,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Identificación de fuerzas: peso, normal, tensión y fricción  
             p.mb-4(data-aos="fade-right") En el PDF Identificación de fuerzas, se explican los conceptos fundamentales de peso, fuerza normal, tensión y fricción, a través de ejemplos claros y ejercicios prácticos. Esta comprensión resulta esencial para aplicar correctamente las leyes de Newton en diversos contextos de la ingeniería, facilitando el diseño y el análisis de sistemas mecánicos, eficientes y seguros.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -226,7 +226,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Aplicaciones de las leyes de Newton en entornos industriales 
             p.mb-4(data-aos="fade-right") En el PDF Aplicaciones de las leyes de Newton en entornos industriales, se presentan ejemplos concretos que ilustran cómo estos principios físicos se utilizan en el diseño de maquinaria, la manipulación de materiales, los procesos de fabricación y la construcción de estructuras. Este enfoque práctico permite a los estudiantes relacionar los conceptos teóricos con situaciones reales del entorno industrial, fortaleciendo sus habilidades para la toma de decisiones técnicas y estratégicas.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.docx')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
