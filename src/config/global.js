@@ -171,14 +171,78 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Bujovtsev, B. B. (2010). <i>Problemas seleccionados de la física elemental. Tomo I</i>. Instituto Politécnico Nacional. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/72636?page=1',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Götze, R. (2010). <i>Elementos de física matemática. Tomo I</i>. Instituto Politécnico Nacional. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/72664?page=1',
+    },
+    {
+      referencia:
+        'Irodov, I. E. (2010). <i>Problemas de física general. Tomo I</i>. Instituto Politécnico Nacional. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/72820?page=1',
+    },
+    {
+      referencia:
+        'Lifante, G. Bravo, D. & Jaque, D. (2015). <i>Problemas resueltos de fundamentos de física (I)</i>. Editorial Universidad Autónoma de Madrid. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/100705?page=1',
+    },
+    {
+      referencia:
+        'Pérez Oviedo, W. (2023). <i>De Newton a Nash: la influencia de la física y la matemática en la economía</i>. FLACSO Ecuador. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/249562?page=1',
+    },
+    {
+      referencia:
+        'Bujovtsev, B. B. (2010). <i>Problemas seleccionados de la física elemental. Tomo I</i>. Instituto Politécnico Nacional. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/72636?page=1',
+    },
+    {
+      referencia:
+        'Götze, R. (2010). <i>Elementos de física matemática. Tomo I</i>. Instituto Politécnico Nacional. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/72664?page=1',
+    },
+    {
+      referencia:
+        'Irodov, I. E. (2010). <i>Problemas de física general. Tomo I</i>. Instituto Politécnico Nacional. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/72820?page=1',
+    },
+    {
+      referencia:
+        'Lifante, G. Bravo, D. & Jaque, D. (2015). <i>Problemas resueltos de fundamentos de física (I)</i>. Editorial Universidad Autónoma de Madrid. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/100705?page=1',
+    },
+    {
+      referencia:
+        'Pérez Oviedo, W. (2023). <i>De Newton a Nash: la influencia de la física y la matemática en la economía</i>. FLACSO Ecuador. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/249562?page=1',
+    },
+    {
+      referencia:
+        'Bujovtsev, B. B. (2010). <i>Problemas seleccionados de la física elemental. Tomo I</i>. Instituto Politécnico Nacional. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/72636?page=1',
+    },
+    {
+      referencia:
+        'Götze, R. (2010).<i> Elementos de física matemática. Tomo I</i>. Instituto Politécnico Nacional. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/72664?page=1',
+    },
+    {
+      referencia:
+        'Irodov, I. E. (2010). <i>Problemas de física general. Tomo I</i>. Instituto Politécnico Nacional. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/72820?page=1',
+    },
+    {
+      referencia:
+        'Lifante, G. Bravo, D. & Jaque, D. (2015).<i> Problemas resueltos de fundamentos de física (I)</i>. Editorial Universidad Autónoma de Madrid. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/100705?page=1',
+    },
+    {
+      referencia:
+        'Pérez Oviedo, W. (2023). <i>De Newton a Nash: la influencia de la física y la matemática en la economía</i>. FLACSO Ecuador. ',
+      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/249562?page=1',
     },
   ],
   glosario: [

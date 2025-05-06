@@ -170,7 +170,7 @@
               img(src='@/assets/curso/temas/18.png', alt='')                  
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Concepto de posición, desplazamiento, velocidad y aceleración
-            p.mb-4(data-aos="fade-right") En el PDF Sistemas de unidades y conversión de unidades, se presentan los principios básicos del Sistema Internacional y el Sistema Inglés, junto con ejercicios prácticos que permiten desarrollar la habilidad de transformar magnitudes, entre distintos sistemas, garantizando una correcta interpretación de datos y una comunicación técnica eficaz en entornos globalizados.
+            p.mb-4(data-aos="fade-right") En el PDF #[b Conceptos], se presentan definiciones claras y ejercicios prácticos que facilitan la comprensión de estas magnitudes físicas, con aplicaciones en contextos como la ingeniería, la economía y la logística. Este enfoque busca desarrollar habilidades para interpretar y resolver problemas reales que involucran movimiento lineal.
             a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")

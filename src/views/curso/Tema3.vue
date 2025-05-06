@@ -123,7 +123,7 @@
           .col-lg-auto
             img.img-a.img-t(src="@/assets/curso/temas/48.svg")
           .col-lg
-            p.mb-0 Recuerde que el dominio de las leyes de Newton y su aplicación en entornos industriales, requiere práctica y experiencia. Se recomienda resolver problemas adicionales, analizar casos de estudio y participar en proyectos prácticos para consolidar los conocimientos adquiridos. Además, la consulta de referencias especializadas y la colaboración con expertos en el campo, pueden enriquecer su comprensión y ampliar sus horizontes en la aplicación de la mecánica newtoniana en la ingeniería industrial.  
+            p.mb-0 Este ejercicio demuestra cómo construir un diagrama de cuerpo libre y preparar el escenario para aplicar las leyes de Newton y resolver problemas de dinámica. En las siguientes secciones, exploraremos diferentes situaciones en las que los diagramas de cuerpo libre y las leyes de Newton se utilizan para analizar el movimiento de los cuerpos en entornos industriales.
 
     #t_3_2.titulo-segundo(data-aos="flip-up")
       h2 #[span 3.2] Movimiento en planos inclinados y superficies rugosas
@@ -286,7 +286,7 @@
               img(src='@/assets/curso/temas/57.png', alt='')
 
     #t_3_5.titulo-segundo(data-aos="flip-up")
-      h2 #[span 3.5] Diagramas de cuerpo libre
+      h2 #[span 3.5] Resolución de problemas en contextos industriales
 
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0 
@@ -606,12 +606,12 @@ export default {
               {
                 id: 'a',
                 texto: 'Aumenta de manera uniforme',
-                esCorrecta: false,
+                esCorrecta: true,
               },
               {
                 id: 'b',
                 texto: 'Disminuye',
-                esCorrecta: true,
+                esCorrecta: false,
               },
               {
                 id: 'c',

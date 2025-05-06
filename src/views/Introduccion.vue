@@ -18,9 +18,7 @@
           .col-lg-4
             .bg-color-2.p-3.h-100.brounded
               p(data-aos="fade-down").mb-0 Al finalizar esta unidad, se espera que el estudiante sea capaz de comprender y aplicar los principios básicos de la cinemática y la dinámica, en el análisis del movimiento de los cuerpos. Esto implica adquirir habilidades para describir matemáticamente el movimiento, identificar y aplicar las leyes de Newton en diferentes situaciones, y resolver problemas relacionados con el movimiento de los cuerpos en contextos industriales. El dominio de estos conceptos y habilidades, será fundamental para el estudio de temas más avanzados en física y para su aplicación en la resolución de problemas reales en la ingeniería industrial.
-
-
-
+              
         .row.mb-5       
           .col-lg-8
             p(data-aos="fade-down") El estudio de la cinemática y la dinámica, no solo es fascinante desde un punto de vista teórico, sino que también tiene una gran relevancia práctica en nuestra vida cotidiana y en el ámbito profesional de la ingeniería industrial. 
